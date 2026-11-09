@@ -1,0 +1,5 @@
+# PyAV 19 removed metadata_errors, which faster-whisper still uses.
+faster-whisper>=1.1.0,<2
+av>=14,<19
+google-genai>=1.0.0,<4
+yt-dlp>=2025.1.15
